@@ -10,7 +10,7 @@ I adore creating and designing websites and applications. I've spent the last fe
 * 🖥️  See my portfolio at [My Portfolio](http://brandoncardillo.vercel.app/)
 * ✉️  You can contact me at [brandonjcardillo@gmail.com](mailto:brandonjcardillo@gmail.com)
 * 🚀  I just finished making a [CarsAPI](http://rapidapi.com/crusherbrandon/api/all-cars)
-* 🧠  I'm learning React
+* 🧠  I'm learning Java Spring Boot
 
 ### Skills
 
