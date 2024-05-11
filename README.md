@@ -9,7 +9,7 @@ I adore creating and designing websites and applications. I've spent the last fe
 * 🌍  I'm based in Miami, FL
 * 🖥️  See my portfolio at [My Portfolio](http://brandoncardillo.vercel.app/)
 * ✉️  You can contact me at [brandonjcardillo@gmail.com](mailto:brandonjcardillo@gmail.com)
-* 🚀  I just finished making a [CarsAPI](http://rapidapi.com/crusherbrandon/api/all-cars)
+* 🚀  I just finished making a [LinkedInJobAPI](https://rapidapi.com/crusherbrandon/api/linkedinjobsapi)
 * 🧠  I'm learning Java Spring Boot
 
 ### Skills
