@@ -4,8 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer / Web Designer
 --------------------------------
 
-I adore creating and designing websites and applications. I've spent the last few months studying how to create React applications as I move away from Flask. I am currently a Computer Science student at Nova Southeastern University, and I am looking for Summer 2023 Internships.
-
 * 🌍  I'm based in Miami, FL
 * 🖥️  See my portfolio at [My Portfolio](http://brandoncardillo.vercel.app/)
 * ✉️  You can contact me at [brandonjcardillo@gmail.com](mailto:brandonjcardillo@gmail.com)
