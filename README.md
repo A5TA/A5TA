@@ -7,8 +7,8 @@ Software Engineer / Web Designer
 * 🌍  I'm based in Miami, FL
 * 🖥️  See my portfolio at [My Portfolio](http://brandoncardillo.vercel.app/)
 * ✉️  You can contact me at [brandonjcardillo@gmail.com](mailto:brandonjcardillo@gmail.com)
-* 🚀  I just finished making a [LinkedInJobAPI](https://rapidapi.com/crusherbrandon/api/linkedinjobsapi)
-* 🧠  I'm learning Java Spring Boot
+* 🚀  I just finished making [Food101-Predictor](https://github.com/A5TA/NutriTrack-AI-Predictor)
+* 🧠  I'm learning GoLang right now!
 
 ### Skills
 
